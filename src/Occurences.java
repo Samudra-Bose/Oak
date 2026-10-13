@@ -9,6 +9,8 @@ public class Occurences {
                 negative += arr[i];
             }
         }
+
+int a = 10;
         return new int[]{positive, negative};
     }
         public static void main(String[] args){
